@@ -1,4 +1,5 @@
 #### Workshop GitHub Desktop
 
-To practise the Cloud 
-I NEED TO CREATE A CONFLICT
+To practise the Cloud
+nice workshop is nice!
+
